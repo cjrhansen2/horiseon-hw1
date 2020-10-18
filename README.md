@@ -2,7 +2,7 @@
 
 ## Description
 
-This website serves as practice for refactoring a webpage's HTML and CSS code, which is likely to be a common task in future web development jobs. This webpage acts as a main page for the fake search engine optimization company "Horiseon". In this project I focused on applying apt semantic HTML elements, linking elements on the main page to navigational links at the top of the page, using alt properties for image elements, and eliminating redundancies or poor syntax. I did my best to replace any non-semantic div elements with semantic elements like nav, aside, section, etc. This is all in order to increase the website's accessibility
+This website serves as practice for refactoring a webpage's HTML and CSS code, which is likely to be a common task in future web development jobs. This webpage acts as a main page for the fake search engine optimization company "Horiseon". In this project I focused on applying apt semantic HTML elements, linking elements on the main page to navigational links at the top of the page, using alt properties for image elements, and eliminating redundancies or poor syntax. I did my best to replace any non-semantic div elements with semantic elements like nav, aside, section, etc. This is all in order to increase the website's accessibility.
 
 ## Installation
 
