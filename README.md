@@ -18,7 +18,7 @@ Scroll around the page and click on the links in the nav bar at the top to see h
 
 ## Credits
 
-Original code by Aaron Jewell
+Original code by Aaron Jewell,
 Refactoring by CJ Hansen
 
 
